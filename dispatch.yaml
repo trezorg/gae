@@ -1,0 +1,3 @@
+dispatch:
+  - url: '*/sum'
+    module: sum
